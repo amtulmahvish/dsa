@@ -8,7 +8,7 @@ class Solution {
         }
 
         
-        switch (day) {
+        switch(day) {
             case 1: System.out.print("Monday"); break;
             case 2: System.out.print("Tuesday"); break;
             case 3: System.out.print("Wednesday"); break;
