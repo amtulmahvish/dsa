@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
     public void pattern12(int n) {
         int spaces= 2*(n-1);
         for(int i=1; i<=n; i++){
